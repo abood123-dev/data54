@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "type": "apartment",
+        "description": "Modern 2-bedroom apartment with a city view, located near the central park.",
+        "price": $300.000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "area_m2": 85,
+        "floors": 1,
+        "pics": 'https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-06.jpg'
+    },
+    {
+        "id": 2,
+        "type": "apartment",
+        "description": "Cozy 1-bedroom apartment, perfect for a young professional. Close to the metro.",
+        "price": $150.000,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_m2": 45,
+        "floors": 1,
+        "pics":"https://th.bing.com/th/id/R.a5064078369c34a2683c285824e6ba96?rik=4P3fpv128NTImA&riu=http%3a%2f%2fwww.souciehorner.com%2fwp-content%2fuploads%2f2017%2f04%2fKitchen2-1536.jpg&ehk=b%2b458Jk3gpHz5nutnwT05MUJ2N0%2bAQujWI3W4DwgoFQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 3,
+        "type": "apartment",
+        "description": "Spacious 3-bedroom apartment in a quiet neighborhood with a private balcony.",
+        "price": $350.000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_m2": 120,
+        "floors": 1,
+        "pics": "https://th.bing.com/th/id/OIP.Bt_swO15FhfzxWSoApol4AHaHY?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 4,
+        "type": "apartment",
+        "description": "Renovated 2-bedroom apartment in a historic building, close to museums and cafes.",
+        "price": $275.000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "area_m2": 75,
+        "floors": 1,
+        "pics": "https://th.bing.com/th/id/R.5387402e0a215b5915e59da60f5b07f8?rik=hng1SEZm20M6BA&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "type": "apartment",
+        "description": "Luxurious 3-bedroom apartment with modern amenities and a rooftop pool.",
+        "price": $500.000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_m2": 130,
+        "floors": 1,
+        "pics": "https://th.bing.com/th/id/OIP.KAlAKVYDfdYRi1M5KDIuuAHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 6,
+        "type": "penthouse",
+        "description": "Exclusive 4-bedroom penthouse with panoramic city views and a private terrace.",
+        "price": $950.000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area_m2": 200,
+        "floors": 2,
+        "pics": "https://www.thewowstyle.com/wp-content/uploads/2015/02/beautiful-penthouse-ideas.jpg"
+    },
+    {
+        "id": 7,
+        "type": "penthouse",
+        "description": "Stunning 3-bedroom penthouse in the heart of downtown, featuring floor-to-ceiling windows.",
+        "price": $850.000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "area_m2": 180,
+        "floors": 2,
+        "pics": "https://discover.luxury/wp-content/uploads/2018/05/douglas-elliman-900x600.jpg"
+    },
+    {
+        "id": 8,
+        "type": "penthouse",
+        "description": "Elegant 2-bedroom penthouse with a private rooftop garden and jacuzzi.",
+        "price": $780.000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_m2": 150,
+        "floors": 2,
+        "pics": "https://luxurylaunches.com/wp-content/uploads/2017/03/Skylofts-2-1170x780.jpg"
+    },
+    {
+        "id": 9,
+        "type": "penthouse",
+        "description": "Sprawling 5-bedroom penthouse with a home cinema, gym, and private elevator.",
+        "price": $120.00,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "area_m2": 250,
+        "floors": 3,
+        "pics": "https://th.bing.com/th/id/OIP.Ld-EWBjDA6RMl9Lwzxz9QQHaFj?w=1200&h=900&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 10,
+        "type": "penthouse",
+        "description": "Luxurious 4-bedroom penthouse overlooking the marina, with top-of-the-line finishes.",
+        "price": $133.000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area_m2": 220,
+        "floors": 2,
+        "pics": "https://i.pinimg.com/736x/5e/f6/a0/5ef6a08d50e66731af3b0bace3e7b4fc--rupert-murdoch-new-york-city.jpg"
+    },
+    {
+        "id": 11,
+        "type": "villa",
+        "description": "Magnificent 6-bedroom villa with a private pool, garden, and guest house.",
+        "price": $233.000,
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "area_m2": 450,
+        "floors": 2,
+        "pics": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-01.jpg"
+    },
+    {
+        "id": 12,
+        "type": "villa",
+        "description": "Charming 4-bedroom villa in a serene coastal town, featuring sea views and a large patio.",
+        "price": $950.000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area_m2": 320,
+        "floors": 2,
+        "pics": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-03.jpg"
+    },
+    {
+        "id": 13,
+        "type": "villa",
+        "description": "Modern 5-bedroom villa with an infinity pool and panoramic mountain views.",
+        "price": $175.000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "area_m2": 400,
+        "floors": 2,
+        "pics": "https://templatemo.com/templates/templatemo_591_villa_agency/assets/images/property-02.jpg"
+    },
+    {
+        "id": 14,
+        "type": "villa",
+        "description": "Elegant 4-bedroom villa in a private estate with a tennis court and landscaped gardens.",
+        "price": $150.000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "area_m2": 380,
+        "floors": 2,
+        "pics": "https://th.bing.com/th/id/OIP.pWrt_-kmvcnu_p8sMY0tRgHaES?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 15,
+        "type": "villa",
+        "description": "Stunning 7-bedroom beachfront villa with direct access to the beach and a home theater.",
+        "price": $2500000,
+        "bedrooms": 7,
+        "bathrooms": 6,
+        "area_m2": 550,
+        "floors": 2,
+        "pics": "https://th.bing.com/th/id/OIP.j77xezKOaBFOsmqkUnUB7gAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 16,
+        "type": "apartment",
+        "description": "Bright 1-bedroom apartment with an open-concept kitchen and a balcony.",
+        "price": $225.000,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "area_m2": 60,
+        "floors": 1,
+        "pics":"https://th.bing.com/th/id/OIP.DwXY6LUIbMNOoFu1zSvdpQHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 17,
+        "type": "penthouse",
+        "description": "Luxurious 2-bedroom penthouse with a wraparound terrace and city skyline views.",
+        "price": $900.000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_m2": 170,
+        "floors": 2,
+        "pics": "https://th.bing.com/th/id/OIP.9kax9V1KGrOOHX2Jp6y-QQHaE8?w=1920&h=1280&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 18,
+        "type": "villa",
+        "description": "Rustic 4-bedroom villa with a vineyard, private pool, and outdoor kitchen.",
+        "price": $140.000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "area_m2": 360,
+        "floors": 2,
+        "pics": "https://sqftstudio.co/wp-content/uploads/2022/02/exterior-min.jpg"
+    },
+    {
+        "id": 19,
+        "type": "apartment",
+        "description": "2-bedroom apartment with a large living room, modern kitchen, and garage space.",
+        "price": $320.000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "area_m2": 95,
+        "floors": 1,
+        "pics": "https://th.bing.com/th/id/OIP.9vWX6cEGRpVLq6RAiYTvKQHaET?w=1140&h=662&rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 20,
+        "type": "villa",
+        "description": "Grand 5-bedroom villa with a home office, gym, and expansive garden.",
+        "price": $180.000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "area_m2": 420,
+        "floors": 2,
+        "pics":"https://www.ofdesign.net/wp-content/uploads/files/4/3/5/modern-house-in-canterbury-a-wooden-deck-by-the-pool-0-435.jpg"
+    }
+]
+
