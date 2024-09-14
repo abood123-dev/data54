@@ -55,17 +55,6 @@
         "pics": "https://th.bing.com/th/id/OIP.KAlAKVYDfdYRi1M5KDIuuAHaE7?rs=1&pid=ImgDetMain"
     },
     {
-        "id": 6,
-        "type": "penthouse",
-        "description": "Exclusive 4-bedroom penthouse with panoramic city views and a private terrace.",
-        "price": "$950.000",
-        "bedrooms": 4,
-        "bathrooms": 3,
-        "area_m2": 200,
-        "floors": 2,
-        "pics": "https://www.thewowstyle.com/wp-content/uploads/2015/02/beautiful-penthouse-ideas.jpg"
-    },
-    {
         "id": 7,
         "type": "penthouse",
         "description": "Stunning 3-bedroom penthouse in the heart of downtown, featuring floor-to-ceiling windows.",
@@ -207,17 +196,6 @@
         "area_m2": 95,
         "floors": 1,
         "pics": "https://th.bing.com/th/id/OIP.9vWX6cEGRpVLq6RAiYTvKQHaET?w=1140&h=662&rs=1&pid=ImgDetMain"
-    },
-    {
-        "id": 20,
-        "type": "villa",
-        "description": "Grand 5-bedroom villa with a home office, gym, and expansive garden.",
-        "price": "$180.000",
-        "bedrooms": 5,
-        "bathrooms": 4,
-        "area_m2": 420,
-        "floors": 2,
-        "pics":"https://www.ofdesign.net/wp-content/uploads/files/4/3/5/modern-house-in-canterbury-a-wooden-deck-by-the-pool-0-435.jpg"
     }
 ]
 
